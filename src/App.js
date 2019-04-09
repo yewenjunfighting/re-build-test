@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+           叶文俊,是个狼人
           </a>
         </header>
       </div>
