@@ -1,0 +1,16 @@
+#playChoose {
+    left: 70%;
+    top: 20px;
+    position: absolute;
+}
+
+#playChoose button {
+    cursor: pointer;
+    border: 0;
+}
+
+#playChoose a {
+    cursor: pointer;
+    display: block;
+    margin-top: 5px;
+}

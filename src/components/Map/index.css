@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#map {
+    top: 0;
+    left: 30%;
+    position: absolute;
+    margin: 20px auto;
+}
+
+.cell {
+    width: 50px;
+    height: 50px;
+    float: left;
+    opacity: 0;
+    background-color: #fff;
+}
+
+.wall {
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-image: url(../../assets/imgs/wall.png);
+}
+
+.target {
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-image: url(../../assets/imgs/target.jpg);
+    background-size: cover;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-image: url(../../assets/imgs/box.png);
+}
+
+.tortoise {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-image: url(../../assets/imgs/tortoise.png);
+}
